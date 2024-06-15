@@ -22,6 +22,7 @@
 - Salesforce Lightning Web Components (LWC)
 - PrimeReact
 - Microsoft Graph
+- Amazon Redshift
 
 
 
