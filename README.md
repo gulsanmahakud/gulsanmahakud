@@ -6,6 +6,8 @@
 - 🔭 I’m currently working on next-generation front-end for Drupal site using **Next.js for Drupal**
 - 🌱 I’m currently learning Next.js for Drupal, GraphQL
 - 📫 You can mail me at **gulsan.mahakud@indegene.com**
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gulsanmahakud) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gulsan_mahakud)
 ### 💻 Tech Stack:
 > ### JavaScript
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
@@ -26,6 +28,12 @@
 - PrimeReact
 - Microsoft Graph
 - Amazon Redshift
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=iamgulsan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=iamgulsan&theme=dark&hide_border=false)
+
+## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/IMGulsan)
 
 
 
