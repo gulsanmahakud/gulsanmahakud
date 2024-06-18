@@ -2,9 +2,9 @@
 - ✨ Software Engineer Lead with over **10 years** of experience specializing in full-stack development.
 - 🌷 My professional approach revolves around strategic thinking, problem-solving, and a commitment to delivering high-quality software solutions. I thrive on challenges and I am dedicated to maintaining a proactive and innovative mindset in addressing complex technical issues. Known for my analytical mindset, I am passionate about contributing to the success of the organization through technological innovation and leadership.
 - 🌲 Proven expertise in **JavaScript**, **React**, **Node.js**, **MySQL**, **Sequelize**, **Git**, jQuery, HTML5, and CSS3, SCSS. Strong analytical and problem-solving skills with a commitment to continuous learning and staying updated with the latest industry trends.
-- 🔭 I’m currently working on next-generation front-end for Drupal site using Next.js for Drupal
+- 🔭 I’m currently working on next-generation front-end for Drupal site using **Next.js for Drupal**
 - 🌱 I’m currently learning Next.js for Drupal, GraphQL
-- 📫 You can mail me at gulsan.mahakud@indegene.com
+- 📫 You can mail me at **gulsan.mahakud@indegene.com**
 ### 💻 Tech Stack:
 > ### JavaScript
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
