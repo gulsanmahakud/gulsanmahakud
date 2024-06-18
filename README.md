@@ -2,10 +2,17 @@
 ### Software Engineer Lead [@Indegene](http://www.indegene.com/)
 <p>I'm a passionate software professional with over <b>10 years</b> of experience specializing in full-stack development.</p><p>My professional approach revolves around strategic thinking, problem-solving, and a commitment to delivering high-quality software solutions. I thrive on challenges and I am dedicated to maintaining a proactive and innovative mindset in addressing complex technical issues. Known for my analytical mindset, I am passionate about contributing to the success of the organization through technological innovation and leadership.</p><p>Strong analytical and problem-solving skills with a commitment to continuous learning and staying updated with the latest industry trends.</p>
 
-- ✨ Proven expertise in **JavaScript**, **React**, **Node.js**, **MySQL**, **Sequelize**, **Git**, jQuery, HTML5, and CSS3, SCSS.
+- ✨ Proven expertise in **JavaScript**, **React**, **Node.js**, **MySQL**, **Sequelize**, **Git**, **Veeva**, **Salesforce**, jQuery, HTML5, and CSS3, SCSS.
 - 🔭 I’m currently working on next-generation front-end for Drupal site using **Next.js for Drupal**
 - 🌱 I’m currently learning Next.js for Drupal, GraphQL
 - 📫 You can mail me at **gulsan.mahakud@indegene.com**
+### 👨‍🎓 Education:
+B. TECH - Information Technology, 2013<br/>
+Biju Patnaik University of Technology, Odisha
+
+12th Standard - Sciece, 2008<br/>
+Council of Higher Secondary Education, Odisha
+
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gulsanmahakud) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gulsan_mahakud)
 ### 💻 Tech Stack:
