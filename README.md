@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Gulsan Kumar Mahakud
 ### Software Engineer Lead [@Indegene](http://www.indegene.com/)
-- ✨ Dynamic and results-driven software professional with over **10 years** of experience specializing in full-stack development..
-- 💫 My professional approach revolves around strategic thinking, problem-solving, and a commitment to delivering high-quality software solutions. I thrive on challenges and I am dedicated to maintaining a proactive and innovative mindset in addressing complex technical issues. Known for my analytical mindset, I am passionate about contributing to the success of the organization through technological innovation and leadership.
+<p>✨ Dynamic and results-driven software professional with over **10 years** of experience specializing in full-stack development.</p> <p>My professional approach revolves around strategic thinking, problem-solving, and a commitment to delivering high-quality software solutions. I thrive on challenges and I am dedicated to maintaining a proactive and innovative mindset in addressing complex technical issues. Known for my analytical mindset, I am passionate about contributing to the success of the organization through technological innovation and leadership.</p>
+
 - 🌲 Proven expertise in **JavaScript**, **React**, **Node.js**, **MySQL**, **Sequelize**, **Git**, jQuery, HTML5, and CSS3, SCSS. Strong analytical and problem-solving skills with a commitment to continuous learning and staying updated with the latest industry trends.
 - 🔭 I’m currently working on next-generation front-end for Drupal site using **Next.js for Drupal**
 - 🌱 I’m currently learning Next.js for Drupal, GraphQL
