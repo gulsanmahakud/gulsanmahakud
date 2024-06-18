@@ -1,4 +1,4 @@
-## Hello, welcome to my GitHub profile 👋
+## 👋 Hello, welcome to my GitHub profile
 - ✨ Software Engineer Lead with over **10 years** of experience specializing in full-stack development.
 - 💫 My professional approach revolves around strategic thinking, problem-solving, and a commitment to delivering high-quality software solutions. I thrive on challenges and I am dedicated to maintaining a proactive and innovative mindset in addressing complex technical issues. Known for my analytical mindset, I am passionate about contributing to the success of the organization through technological innovation and leadership.
 - 🔭 I’m currently working on next-generation front-end for Drupal site using Next.js for Drupal
