@@ -7,10 +7,10 @@
 - 🌱 I’m currently learning Next.js for Drupal, GraphQL
 - 📫 You can mail me at **gulsan.mahakud@indegene.com**
 ### 👨‍🎓 Education:
-**B. TECH - Information Technology, 2013**<br/>
+**B. TECH in Information Technology, 2013**<br/>
 Biju Patnaik University of Technology, Odisha
 
-**12th Standard - Sciece, 2008**<br/>
+**12th Standard - Science, 2008**<br/>
 Council of Higher Secondary Education, Odisha
 
 ### 🌐 Connect with me:
