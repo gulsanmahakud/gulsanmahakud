@@ -35,6 +35,11 @@ Council of Higher Secondary Education, Odisha
 - PrimeReact
 - Microsoft Graph
 - Amazon Redshift
+### Training & Certification:
+➡️ Generative AI 101<br/>
+➡️ Product Management<br/>
+➡️ Veeva - CLM Technical Certification<br/>
+➡️ Veeva - Approaved Email Technical Certification<br/>
   
 <details>
   <summary><h3>📊 GitHub Stats:</h3></summary>
