@@ -43,12 +43,18 @@ Council of Higher Secondary Education, Odisha
   
 <details>
   <summary><h3>📊 GitHub Stats:</h3></summary>
-  
-  ![](https://github-readme-stats.vercel.app/api?username=iamgulsan&theme=dark&hide_border=false&include_all_commits=true&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=iamgulsan&theme=dark&hide_border=false)
-</details>
+
+  | <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamgulsan&show_icons=true&theme=dark&locale=en" alt="iamgulsan" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamgulsan&theme=dark" alt="felipeelia" /> |
+| :---: | :---: |
+
+</details><br>
 
 ### 💰 You can help me by Donating
+  <!--
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/IMGulsan)
+  -->
+  <br>
+  <p align="center"><a href="https://paypal.me/IMGulsan"> <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&v=3" height="50" width="210" alt="iamgulsan" /></a></p>
 
 
 
