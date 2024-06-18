@@ -10,9 +10,6 @@
 **B. TECH in Information Technology, 2013**<br/>
 Biju Patnaik University of Technology, Odisha
 
-**12th Standard - Science, 2008**<br/>
-Council of Higher Secondary Education, Odisha
-
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gulsanmahakud) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/gulsan_mahakud)
 ### 💻 Tech Stack:
